@@ -1,2 +1,2 @@
 # sm64gl
-Wiseguys lighting engine ported to pc
+W.I.P. port of Wiseguy's HackerSM64 Lighting Engine to PC Port.
